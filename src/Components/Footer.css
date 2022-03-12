@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oswald";
+    letter-spacing: 1px;
+    color: #ffffff;
+}
+
+h6 {
+    font-size: 13px;
+    line-height: 18px;
+}
+
+h3 {
+    font-size: 1.23em;
+    text-transform: none;
+}
+
+#footer {
+    background-image: url("https://www.xautocare.com/wp-content/themes/usedenginetransmission/images/footer-bg-img.png");
+    background-color: #403f3f;
+    background-repeat: repeat;
+    position: relative;
+    color: #999999;
+    line-height: 24px;
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.container {
+    padding-top: 5rem;
+    padding-bottom: 2.4rem;
+}
+
+.footer_top {
+    border-bottom: 1px solid #4e4e4e;
+}
+
+.imagelogo {
+    height: 85.8px;
+    margin-bottom: 20px;
+}
+
+.number {
+    font-size: 22px;
+    line-height: 1.4;
+    font-weight: 700;
+    color: #ec7200 !important;
+}
+
+.paymentimg {
+    height: auto;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.listdetails {
+    margin: 0;
+    padding: 0;
+}
+
+.footer_bottom {
+    padding: 15px 0;
+    font-size: 1em;
+    padding-right: 10px;
+    padding-left: 10px;
+    display: table;
+    table-layout: fixed;
+}
+
+.footer_bottom > div {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.footer_btm_l {
+    padding: 10px 8px 10px 0;
+    text-align: left;
+    width: 100%;
+}
+
+.footer_btm_r {
+    padding: 10px 0 10px 8px;
+    text-align: right;
+    width: 100%;
+}
+g
+
+.social_media a{
+    text-decoration: none;
+    background: none;
+    color: #ffffff;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.scl_icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    margin: 2px;
+    text-align: center;
+}
+
+.scl_icon :hover {
+    background: #3b5a9a;
+}
